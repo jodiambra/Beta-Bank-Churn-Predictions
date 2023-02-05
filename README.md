@@ -1,4 +1,5 @@
 # Beta-Bank-Churn-Predictions
+![image](https://user-images.githubusercontent.com/115895428/216845320-00d2557c-c95a-4bd8-899a-9d7e9c9f2f40.png)
 
 ## Purpose
 The purpose of this project is to investigate the churn of Beta Bank customers. The bank has noticed customers are slowly leaving, month over month. The most cost effective solution is to retain existing customers, rather than recruit new customers. The bank needs a model that will predict whether a customer will leave the bank soon. The model will be trained on data from clients' past behavior and termination of contracts with the bank. The goal of the project is to build a model with an F1 score of at least 0.59. 
